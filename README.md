@@ -1,4 +1,5 @@
 # 🌟 Quote Generator Web App
+
 Generate inspiration and wisdom at the click of a button! This web app randomly selects and displays thought-provoking quotes, motivating phrases, and insightful sayings. Whether you need a boost of positivity or just enjoy exploring new ideas, this app has you covered.
 
 # 🚀 Key Features:
@@ -17,19 +18,20 @@ Enjoy the app on any device - desktop, tablet, or mobile.
 
 # 🔧 Technologies Used:
 
-### HTML
-### CSS
-### JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # 👉 How to Use:
 
-Visit the app URL.
-Click the "Generate Quote" button to receive a new, thought-provoking quote.
-Share your favorite quotes with friends and spread the inspiration!
+1. Visit the app [here](https://wassimoubaziz.github.io/Quote-Generator/).
+2. Click the "Generate Quote" button to receive a new, thought-provoking quote.
+3. Share your favorite quotes with friends and spread the inspiration!
 
-### 🌐 Live Demo: Not avariable yet
+# 🌐 Live Demo: [Quote Generator Demo](https://wassimoubaziz.github.io/Quote-Generator/)
 
-### 📄 License: This project is licensed under the MIT Licenses - see the LICENSE.md file for details.
+# 📄 License: 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # 🙌 Contributing:
 
@@ -37,6 +39,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 # 📬 Contact:
 
-Have questions or suggestions? Reach out to wassimdjaafar5@gmail.com or open an issue.
+Have questions or suggestions? Reach out to [wassimdjaafar5@gmail.com](mailto:wassimdjaafar5@gmail.com) or open an issue.
 
 ### Enjoy the wisdom and motivation at your fingertips! 🌈✨
